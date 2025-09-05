@@ -6,7 +6,7 @@
 <h1 align="center">Hi there, I 'm Akila Isuru <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 
 <h3 align="center">A frontend developer from Sri Lanka</h3>
-<picture> <img align="right" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif?raw=true" width = 450px></picture>
+<picture> <img align="right" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif?raw=true" width = 400px></picture>
 
 
 - 🌱 I’m currently learning **HTML,CSS,Bootstrap,Js and Java**
