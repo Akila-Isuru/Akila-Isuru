@@ -3,7 +3,8 @@
     <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 150px alt="About Me GIF">
   </picture>
 </div>
-<h1 align="center">Hi 👋, I'm Akila Isuru</h1>
+<h1 align="center">Hi there, I 'm Akila Isuru <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+
 <h3 align="center">A frontend developer from Sri Lanka</h3>
 
 - 🌱 I’m currently learning **HTML,CSS,Bootstrap,Js and Java**
