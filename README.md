@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi there, I'm Akila Isuru <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 
-<h3 align="center">A frontend developer from Sri Lanka</h3>
+<h3 align="center">A FullStack developer from Sri Lanka</h3>
 
 <div align="center">
   <picture>
